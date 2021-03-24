@@ -50,3 +50,5 @@ int main ()
 
 [ds](https://github.com/tahsin469/tahsin/blob/gh-pages/ds.md)
 
+[algo](https://github.com/tahsin469/tahsin/blob/gh-pages/ds.md)
+
